@@ -4,8 +4,6 @@ import video from './food.mp4';
 import icon from './search.svg';
 import NewRecipe from './NewRecipe';
 
-
-
 function App() {
   const KEY = '09fb61e0559955cba49596d6624db8ed';
   const ID = '461e9163';
